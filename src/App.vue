@@ -15,31 +15,15 @@
                 <h1 class="mt-4 mb-3">
                   Mátyás Záborszky
                 </h1>
-                <p class="font-weight-bold">
-                    I have worked as a marketing and PR expert for over 15 years, consulting in over 20
-                  countries for companies such as BMW, Lufthansa, LG and Samsung. Later I worked with several
-                  high-profile crypto organizations, such as Bitcoinist and Bitcoin.com, and established my simple
-                  method for all but guaranteed success in the industry’s first go-to-market handbook: 
-                  <a class="inline-link" href="http://www.6steps.online/" target="_blank">“6 Proven Steps to Attract ICO Investors.”</a>
-                  I also founded <a class="inline-link" href="https://6slambo.com/" target="_blank">6S•LAMBO</a> 
-                  to provide a hassle-free, end to end integrated solution, using the 6-step methodology to connect 
-                  ICOs and STOs with their audience, build their trust and turn them into investors.
+                <p>
+                    Matyas Zaborszky is an ICO Marketing & PR Strategic adviser, mentor, investor, entrepreneur and university lecturer.
                 </p>
 
-                <p>
-                  I post regular opinion pieces on crypto investments on 
-                  <a class="inline-link" href="https://medium.com/@matyaszaborszky" target="_blank">my blog</a> and social media
-                  channels, frequently present at crypto and blockchain conferences, and am also a mentor,
-                  investor, entrepreneur, university lecturer and PGA enthusiast.
-                </p>
-
-                <p>
-                  My other interests include self improvement and business excellence. I am an avid
-                  follower of the Silva Method and have been publishing meditations, positive affirmations and
-                  other related material for years as a hobby. It’s fun and could really help you grow as a person
-                  and an entrepreneur. <a class="inline-link" href="">See for yourself!</a>
-                </p>
                 <follow-me />
+
+                <p>
+                  If you wish to follow my blog, click on any of the articles or the Medium logo above and follow me there.
+                </p>
 
               </div>
             </div>
